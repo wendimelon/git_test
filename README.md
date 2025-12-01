@@ -1,2 +1,2 @@
-# git_test
-Hello Odin!
+# cat-alogue
+Hello! This was the first odin assignment of learning how to set up a repository and basic html boilerplate file, which now turned into a side project to consolidate my learnings into a working project. 
